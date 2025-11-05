@@ -28,7 +28,6 @@ class Logger {
     }
 }
 
-// Demo class
 public class SingletonDemo {
     public static void main(String[] args) {
         // Get two logger instances
